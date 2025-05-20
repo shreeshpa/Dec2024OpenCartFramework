@@ -27,7 +27,7 @@
 	</test>
 
 	<test name="Login Page Test - Edge">
-		<parameter name="browser" value="edge" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageTest" />
 		</classes>
@@ -49,7 +49,7 @@
 	</test>
 
 	<test name="Accounts Page Test - Edge">
-		<parameter name="browser" value="edge" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.AccountsPageTest" />
 		</classes>
@@ -71,7 +71,7 @@
 	</test>
 
 	<test name="Search Test - Edge">
-		<parameter name="browser" value="edge" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.SearchTest" />
 		</classes>
